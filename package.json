@@ -1,0 +1,46 @@
+{
+  "name": "@mk01/react-date-picker",
+  "version": "1.0.0",
+  "description": "Beautiful Hijri & Gregorian date picker with extensive customization built with pure HTML, CSS, and React.",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.esm.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.esm.js",
+      "require": "./dist/index.cjs"
+    },
+    "./dist/index.css": "./dist/index.css"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "react",
+    "hijri",
+    "date-picker",
+    "calendar",
+    "islamic",
+    "react-hijri-date-picker",
+    "hijri-date-picker",
+    "react-date-picker",
+    "gregorian-date",
+    "gregorian-date-picker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamed-khaledes/react-date-picker"
+  },
+  "homepage": "https://github.com/mohamed-khaledes/react-date-picker",
+  "peerDependencies": {
+    "react": ">=17",
+    "react-dom": ">=17"
+  },
+  "author": "Mk01",
+  "license": "MIT",
+  "dependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  }
+}
