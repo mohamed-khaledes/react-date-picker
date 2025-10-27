@@ -45,7 +45,7 @@ pnpm add @mk01/react-date-picker
 
 ```jsx
 import React, { useState } from 'react';
-import ReactDatePicker from 'your-package-name';
+import ReactDatePicker from '@mk01/react-date-picker';
 
 function App() {
   const [selectedDate, setSelectedDate] = useState(null);
@@ -160,7 +160,7 @@ interface HijriDate {
 
 ```jsx
 import React, { useState } from 'react';
-import ReactDatePicker from 'your-package-name';
+import ReactDatePicker from '@mk01/react-date-picker';
 
 function HijriExample() {
   const [date, setDate] = useState(null);
@@ -606,7 +606,7 @@ The component fully supports both English and Arabic:
 The package is written in TypeScript and includes full type definitions:
 
 ```typescript
-import ReactDatePicker, { ReactDatePickerProps, HijriDate } from 'your-package-name';
+import ReactDatePicker, { ReactDatePickerProps, HijriDate } from '@mk01/react-date-picker';
 
 const MyComponent: React.FC = () => {
   const [date, setDate] = useState<Date | null>(null);
@@ -664,13 +664,13 @@ MIT © [Your Name]
 
 ## 📞 Support
 
-For issues, questions, or suggestions, please open an issue on [GitHub](https://github.com/yourusername/your-package-name/issues).
+For issues, questions, or suggestions, please open an issue on [GitHub](https://github.com/yourusername/@mk01/react-date-picker/issues).
 
 ## 🔗 Links
 
 - [Documentation](https://your-docs-url.com)
-- [NPM Package](https://www.npmjs.com/package/your-package-name)
-- [GitHub Repository](https://github.com/yourusername/your-package-name)
+- [NPM Package](https://www.npmjs.com/package/@mk01/react-date-picker)
+- [GitHub Repository](https://github.com/yourusername/@mk01/react-date-picker)
 - [Live Demo](https://your-demo-url.com)
 
 ---
