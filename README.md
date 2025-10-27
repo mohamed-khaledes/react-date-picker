@@ -8,7 +8,8 @@ A beautiful, feature-rich React date picker component that supports both Hijri (
 
 ---
 ### DEMO => https://mohamed-khaledes.github.io/react-date-picker-demo/
-<img width="1076" height="667" alt="Screenshot_102" src="https://github.com/user-attachments/assets/d14b4ebf-d383-4190-952f-0205d2ee559d" />
+<img width="1873" height="934" alt="Screenshot_3" src="https://github.com/user-attachments/assets/eb83c57d-a406-4eeb-95a1-ebf5993c13b4" />
+
 ## ✨ Features
 
 - 🌙 **Dual Calendar Support**: Both Hijri (Islamic) and Gregorian calendars
@@ -29,15 +30,15 @@ A beautiful, feature-rich React date picker component that supports both Hijri (
 ## 📦 Installation
 
 ```bash
-npm install your-package-name
+npm install @mk01/react-date-picker
 ```
 
 ```bash
-yarn add your-package-name
+yarn add @mk01/react-date-picker
 ```
 
 ```bash
-pnpm add your-package-name
+pnpm add @mk01/react-date-picker
 ```
 
 ## 🚀 Quick Start
@@ -673,5 +674,6 @@ For issues, questions, or suggestions, please open an issue on [GitHub](https://
 - [Live Demo](https://your-demo-url.com)
 
 ---
+
 
 Made with ❤️ for the Muslim developer community
