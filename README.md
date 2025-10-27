@@ -654,7 +654,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-MIT © [Your Name]
+MIT © [mohamed khaled]
 
 ## 🙏 Acknowledgments
 
@@ -664,16 +664,15 @@ MIT © [Your Name]
 
 ## 📞 Support
 
-For issues, questions, or suggestions, please open an issue on [GitHub](https://github.com/yourusername/@mk01/react-date-picker/issues).
+For issues, questions, or suggestions, please open an issue on [GitHub](https://github.com/mohamed-khaledes/react-date-picker/issues).
 
 ## 🔗 Links
 
-- [Documentation](https://your-docs-url.com)
 - [NPM Package](https://www.npmjs.com/package/@mk01/react-date-picker)
-- [GitHub Repository](https://github.com/yourusername/@mk01/react-date-picker)
-- [Live Demo](https://your-demo-url.com)
+- [GitHub Repository](https://github.com/mohamed-khaledes/react-date-picker)
+- [Live Demo](https://mohamed-khaledes.github.io/react-date-picker-demo/)
 
 ---
 
 
-Made with ❤️ for the Muslim developer community
+Made with ❤️ for the developers community
